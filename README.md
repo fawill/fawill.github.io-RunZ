@@ -13,4 +13,4 @@ A Infinite Runner Game Using Construct 2.
 
 ## Live Demonstration
 
-<h3> - <a href="https://github.com/fawill/RunZ/" target="_blank">Try it now!</a></h3>
+<h3> - <a href="https://fawill.github.io/RunZ/" target="_blank">Try it now!</a></h3>
