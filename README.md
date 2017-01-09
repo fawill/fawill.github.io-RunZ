@@ -2,7 +2,7 @@
 
 A Infinite Runner Game Using Construct 2.
 
-<img src="https://qliin.github.io/images/Banner_breakbeer.jpg" style="width:250px"/>
+<img src="https://raw.githubusercontent.com/fawill/fawill.github.io-RunZ/master/Banner_RunZ.png" style="width:250px"/>
 
 ## Contributors 
 
